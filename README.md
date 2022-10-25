@@ -11,6 +11,6 @@ When the user opens the text editor, the content will immediately be stored into
 
 ## Link
 
-[heroku link]
+[heroku link](https://damp-island-98922.herokuapp.com/)
 
-[screenshot]
+![screenshot](./images/J-A-T-E.png)
